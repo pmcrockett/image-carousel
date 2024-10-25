@@ -1,7 +1,7 @@
 {
-  "name": "os-like-dropdown",
+  "name": "image-carousel",
   "version": "1.0.0",
-  "description": "Implements dropdown menus in the style of an OS menu bar.",
+  "description": "Image display that can be advanced manually or automatically.",
   "type": "module",
   "main": "script.js",
   "scripts": {
